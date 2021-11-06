@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "ip",
+      "type": "java.lang.String",
+      "description": "Description for ip."
+    },
+    {
+      "name": "ip",
+      "type": "java.lang.String",
+      "description": "Description for ip."
+    }
+  ] }
