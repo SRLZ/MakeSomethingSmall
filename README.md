@@ -4,6 +4,9 @@
 ### it uses the uart to receive the data
 ### and it is deploymented by springboot
 ### so we can display the graph on remore browser.
+### uart.py it is used for test. It can send the data to the uart.
+### linux.md help understand to start the project when the power on.
+## something in use:
 ### uart
 ### ajax
 ### springboot
