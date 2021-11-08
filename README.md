@@ -8,7 +8,7 @@
 ### ajax
 ### springboot
 
-### 使用github
+## 使用github
 ### echo "# MakeSomethingSmall" >> README.md
 ### git init
 ### git add README.md
@@ -32,7 +32,7 @@
 ### Your identification has been saved in C:\Users\Administrator/.ssh/id_rsa.
 ### Your public key has been saved in C:\Users\Administrator/.ssh/id_rsa.pub.
 ### The key fingerprint is:
-### SHA256:mefkpt8MgbA0u2lzKYgbD6RHV2DzzSNExDsVZ3GeqhU 3150233941@qq.com
+### SHA256:mefkpt8MgbA0u2lzKYgbD6RHV2DzzSNExDsVZ3GeqhU youremail@qq.com
 ### The key's randomart image is:
 ### +---[RSA 2048]----+
 ### |    +++ ..+..    |
